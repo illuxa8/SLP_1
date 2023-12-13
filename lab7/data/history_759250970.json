@@ -1,0 +1,97 @@
+[
+    {
+        "message": "Age entered: 28",
+        "answer": "Age is valid and saved.",
+        "timestamp": "2023-12-07T00:19:02.640851"
+    },
+    {
+        "message": "Color entered: red",
+        "answer": "Color is valid and saved.",
+        "timestamp": "2023-12-07T00:19:06.555030"
+    },
+    {
+        "message": "hobbies entered: film",
+        "answer": "hobbies is valid and saved.",
+        "timestamp": "2023-12-07T00:19:10.844082"
+    },
+    {
+        "message": "Email entered: illyamelnychuk228@gmail.com",
+        "answer": "email is valid and saved.",
+        "timestamp": "2023-12-07T00:19:18.275199"
+    },
+    {
+        "message": "Age entered: 18",
+        "answer": "Age is valid and saved.",
+        "timestamp": "2023-12-07T00:36:08.525487"
+    },
+    {
+        "message": "Color entered: \u0440\u0435\u0434",
+        "answer": "Invalid color format.",
+        "timestamp": "2023-12-07T00:36:12.129926"
+    },
+    {
+        "message": "Color entered: red",
+        "answer": "Color is valid and saved.",
+        "timestamp": "2023-12-07T00:36:14.278899"
+    },
+    {
+        "message": "hobbies entered: film",
+        "answer": "hobbies is valid and saved.",
+        "timestamp": "2023-12-07T00:36:18.403052"
+    },
+    {
+        "message": "Email entered: illyamelnychuk228@gmail.com",
+        "answer": "email is valid and saved.",
+        "timestamp": "2023-12-07T00:36:28.856767"
+    },
+    {
+        "message": "Age entered: 28",
+        "answer": "Age is valid and saved.",
+        "timestamp": "2023-12-07T00:44:22.363157"
+    },
+    {
+        "message": "Color entered: red",
+        "answer": "Color is valid and saved.",
+        "timestamp": "2023-12-07T00:44:23.865948"
+    },
+    {
+        "message": "hobbies entered: film",
+        "answer": "hobbies is valid and saved.",
+        "timestamp": "2023-12-07T00:44:26.896476"
+    },
+    {
+        "message": "Email entered: isa@gmail.com",
+        "answer": "email is valid and saved.",
+        "timestamp": "2023-12-07T00:44:33.933789"
+    },
+    {
+        "message": "Age entered: 28\\",
+        "answer": "Invalid age format.",
+        "timestamp": "2023-12-13T23:16:30.615364"
+    },
+    {
+        "message": "Age entered: 28",
+        "answer": "Age is valid and saved.",
+        "timestamp": "2023-12-13T23:16:32.213624"
+    },
+    {
+        "message": "Color entered: \u043a\u0443\u0432",
+        "answer": "Invalid color format.",
+        "timestamp": "2023-12-13T23:16:34.270912"
+    },
+    {
+        "message": "Color entered: red",
+        "answer": "Color is valid and saved.",
+        "timestamp": "2023-12-13T23:16:37.119687"
+    },
+    {
+        "message": "hobbies entered: films",
+        "answer": "hobbies is valid and saved.",
+        "timestamp": "2023-12-13T23:16:42.192348"
+    },
+    {
+        "message": "Email entered: illyamelnychuk228@gmail.com",
+        "answer": "email is valid and saved.",
+        "timestamp": "2023-12-13T23:16:50.580200"
+    }
+]

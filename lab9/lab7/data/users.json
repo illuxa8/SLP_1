@@ -1,0 +1,102 @@
+[
+    {
+        "username": "john_doe",
+        "first_name": "John",
+        "last_name": "Doe",
+        "age": 30,
+        "fav_color": "blue",
+        "hobbies": [
+            [
+                "reading"
+            ],
+            [
+                "cycling"
+            ]
+        ],
+        "email": "johndoe@example.com"
+    },
+    {
+        "username": "alice_smith",
+        "first_name": "Alice",
+        "last_name": "Smith",
+        "age": 25,
+        "fav_color": "green",
+        "hobbies": [
+            [
+                "painting"
+            ],
+            [
+                "traveling"
+            ]
+        ],
+        "email": "alicesmith@example.com"
+    },
+    {
+        "username": "bob_brown",
+        "first_name": "Bob",
+        "last_name": "Brown",
+        "age": 40,
+        "fav_color": "red",
+        "hobbies": [
+            [
+                "fishing"
+            ],
+            [
+                "gardening"
+            ]
+        ],
+        "email": "bobbrown@example.com"
+    },
+    {
+        "username": "qwrty0228",
+        "first_name": "illya",
+        "last_name": null,
+        "age": "28",
+        "fav_color": "red",
+        "hobbies": [
+            [
+                "film"
+            ]
+        ],
+        "email": "illyamelnychuk228@gmail.com"
+    },
+    {
+        "username": "qwrty0228",
+        "first_name": "illya",
+        "last_name": null,
+        "age": "18",
+        "fav_color": "red",
+        "hobbies": [
+            [
+                "film"
+            ]
+        ],
+        "email": "illyamelnychuk228@gmail.com"
+    },
+    {
+        "username": "qwrty0228",
+        "first_name": "illya",
+        "last_name": null,
+        "age": "28",
+        "fav_color": "red",
+        "hobbies": [
+            [
+                "film"
+            ]
+        ],
+        "email": "isa@gmail.com"
+    },
+    {
+        "username": "qwrty0228",
+        "first_name": "illya",
+        "last_name": null,
+        "age": "28",
+        "fav_color": "red",
+        "hobbies": [
+            [
+                "films"
+            ]
+        ],
+        "email": "illyamelnychuk228@gmail.com"
+    }
+]
